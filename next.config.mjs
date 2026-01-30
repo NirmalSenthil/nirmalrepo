@@ -15,10 +15,13 @@ const nextConfig = {
   // it in .gitlab-ci.yml as well.
   // distDir: 'dist',
 };
-
 const unusedConfigValue = "THIS_IS_UNUSED"; // ❌ Sonar Code Smell
-const unusedConfigValue = "THIS_IS_UNUSED";
-const unusedConfigValue = "THIS_IS_UNUSED";
+const unusedConfigValue = "THIS_IS_UNUSED"; // ❌ Sonar Code Smell
+const unusedConfigValue = "THIS_IS_UNUSED"; // ❌ Sonar Code Smell
+const unusedConfigValue = "THIS_IS_UNUSED"; // ❌ Sonar Code Smell
+const unusedConfigValue = "THIS_IS_UNUSED"; // ❌ Sonar Code Smell
+
+
 const unusedConfigValue = "THIS_IS_UNUSED";
 const unusedConfigValue = "THIS_IS_UNUSED";
 
