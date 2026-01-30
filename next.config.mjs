@@ -17,8 +17,8 @@ const nextConfig = {
 };
 
 const unusedConfigValue = "THIS_IS_UNUSED"; // ❌ Sonar Code Smell
-const unusedConfigValue = "THIS_IS_UNUSED";
-const unusedConfigValue = "THIS_IS_UNUSED";
+
+
 const unusedConfigValue = "THIS_IS_UNUSED";
 const unusedConfigValue = "THIS_IS_UNUSED";
 
